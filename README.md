@@ -1,1 +1,1 @@
-# github-static-site
+# static contents
